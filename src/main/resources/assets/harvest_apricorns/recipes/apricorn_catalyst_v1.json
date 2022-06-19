@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CAC",
+    "IBI",
+    "CAC"
+  ],
+  "group": "catalyst",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "pixelmon:aluminium_ingot"
+    },
+    "C": {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+    "B": {
+      "item": "minecraft:dye",
+      "data": 15
+    }
+  },
+  "result": {
+    "item": "harvest_apricorns:apricorn_catalyst"
+  }
+}

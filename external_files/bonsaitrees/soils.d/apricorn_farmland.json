@@ -1,0 +1,16 @@
+{
+  "name": "harvest_apricorns:apricorn_farmland",
+  "mod": "harvest_apricorns",
+  "soil": {
+    "name": "harvest_apricorns:apricorn_farmland",
+    "data": 0,
+    "ignoreMeta": false
+  },
+
+  "modifiers": {
+    "growTime": 6.0,
+    "dropChance": 0.5
+  },
+
+  "providedTags": [ "apricorn" ]
+}

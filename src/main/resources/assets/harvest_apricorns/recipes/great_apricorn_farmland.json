@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CDC"
+  ],
+  "group": "catalyst",
+  "key": {
+    "C": {
+      "item": "harvest_apricorns:great_apricorn_catalyst"
+    },
+    "D": {
+      "item": "minecraft:grass",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "harvest_apricorns:great_apricorn_farmland"
+  }
+}

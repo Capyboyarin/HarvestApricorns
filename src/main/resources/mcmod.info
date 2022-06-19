@@ -1,0 +1,16 @@
+[{
+  "modid": "harvest_apricorns",
+  "name": "Harvest apricorns",
+  "description": "This mod adds blocks for growing pixelmon apricorns using bonsais from the bonsaitrees mod.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bepersch the Capyboyarin", "Jonny the Slothlord"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": ["bonsaitrees", "pixelmon"],
+  "dependencies": ["pixelmon"],
+  "dependants": ["bonsaitrees"]
+}]

@@ -1,0 +1,51 @@
+{
+  "type": "apricorns:black_apricorn",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:log",
+      "meta": 0
+    },
+    "b": {
+      "name": "minecraft:leaves",
+      "meta": 5
+    },
+    "c": {
+      "name": "minecraft:leaves",
+      "meta": 13
+    },
+    "d": {
+      "name": "minecraft:wool",
+      "meta": 15
+    }
+  },
+  "shape": [
+    [
+      " c ",
+      "ccc",
+      "bbb",
+      "bbb",
+      " c ",
+      "   ",
+      "   "
+    ],
+    [
+      "cdc",
+      "ccc",
+      "bbb",
+      "bcc",
+      "bac",
+      " a ",
+      " a "
+    ],
+    [
+      " c ",
+      "ccc",
+      "bbb",
+      "bcb",
+      " c ",
+      "   ",
+      "   "
+    ]
+  ]
+}

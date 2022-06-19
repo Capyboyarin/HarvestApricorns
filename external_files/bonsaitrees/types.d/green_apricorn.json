@@ -1,0 +1,19 @@
+{
+    "name": "apricorns:green_apricorn",
+    "mod": "pixelmon",
+    "sapling": {
+        "name": "pixelmon:green_apricorn",
+        "data": 0
+    },
+    "growTimeMultiplier": 1.0,
+    "drops": [
+        {
+            "name": "pixelmon:green_apricorn",
+            "data": 0,
+            "type": "CUSTOM",
+            "count": 1,
+            "chance": 1.0
+        }
+    ],
+    "compatibleSoilTags": [ "apricorn" ]
+}

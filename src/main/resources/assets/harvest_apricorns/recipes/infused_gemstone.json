@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pixelmon:sapphire"
+    },
+    {
+      "item": "pixelmon:ruby",
+      "data": 0
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    [
+      {
+        "item": "pixelmon:fire_stone"
+      },
+      {
+        "item": "pixelmon:water_stone"
+      },
+      {
+        "item": "pixelmon:moon_stone"
+      },
+      {
+        "item": "pixelmon:thunder_stone"
+      },
+      {
+        "item": "pixelmon:leaf_stone"
+      },
+      {
+        "item": "pixelmon:sun_stone"
+      },
+      {
+        "item": "pixelmon:dawn_stone"
+      },
+      {
+        "item": "pixelmon:dusk_stone"
+      },
+      {
+        "item": "pixelmon:shiny_stone"
+      },
+      {
+        "item": "pixelmon:ice_stone"
+      }
+    ]
+  ],
+  "result": {
+    "item": "harvest_apricorns:infused_gemstone"
+  }
+}

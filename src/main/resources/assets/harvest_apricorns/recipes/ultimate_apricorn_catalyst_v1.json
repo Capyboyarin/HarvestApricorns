@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IEI",
+    "DCD",
+    "IEI"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "I": {
+      "item": "harvest_apricorns:infused_gemstone"
+    },
+    "C": {
+      "item": "harvest_apricorns:great_apricorn_catalyst"
+    }
+  },
+  "result": {
+    "item": "harvest_apricorns:ultimate_apricorn_catalyst"
+  }
+}

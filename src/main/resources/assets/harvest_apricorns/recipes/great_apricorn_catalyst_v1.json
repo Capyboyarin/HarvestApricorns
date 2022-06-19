@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DGD",
+    "SCS",
+    "DGD"
+  ],
+  "key": {
+    "D": {
+      "item": "harvest_apricorns:catalyst_dust"
+    },
+    "S": {
+      "item": "pixelmon:silicon"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "C": {
+      "item": "harvest_apricorns:apricorn_catalyst"
+    }
+  },
+  "result": {
+    "item": "harvest_apricorns:great_apricorn_catalyst"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "harvest_apricorns:blocks/great_apricorn_farmland"
+  }
+}
