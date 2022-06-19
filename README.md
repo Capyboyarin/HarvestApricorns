@@ -3,7 +3,7 @@ HarvestApricorns it's mod for minecraft 1.12.2
 This mod adds blocks specialized for growing apricorns from the Pixelmon mod. This blog is intended as an addition to the BonsaiTrees mod and automating the cultivation of apricots with its functionality.
 
 ## Authors Pages
-- [Sergey Bepersch](https://vk.com/tellmehonestlydidyouloseme) - code
+- [Sergey Bepersch](https://vk.com/tellmehonestlydidyouloseme) - code (He doesn't work too)
 - [Grigory Komorov](https://vk.com/wenston) - design (He doesn't work)
 
 ## Required mods
